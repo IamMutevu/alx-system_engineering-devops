@@ -7,3 +7,4 @@
 6-firstdirectory make current_directory in tmp
 7-movethatfile move file script
 8-firstdelete delete file script
+9-firstdirdeletion delet folder
