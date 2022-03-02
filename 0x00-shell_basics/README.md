@@ -5,3 +5,4 @@
 4-listmorefiles list even hidden files
 5-listfilesdigitonly list in long format and user groups
 6-firstdirectory make current_directory in tmp
+7-movethatfile move file script
