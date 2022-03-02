@@ -3,3 +3,4 @@
 2-bring_me_home takes user to their home directory
 3-listfiles list in long format
 4-listmorefiles list even hidden files
+5-listfilesdigitonly list in long format and user groups
